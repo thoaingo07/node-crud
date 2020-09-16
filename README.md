@@ -1,2 +1,1 @@
-# node-crud
-nodejs, expressjs, typeorm, postgresql
+# real-node
